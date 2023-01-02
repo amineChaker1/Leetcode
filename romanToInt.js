@@ -23,5 +23,3 @@ const romanToInt = (s) => {
   }
   return res;
 };
-
-romanToInt("MCMCV");
