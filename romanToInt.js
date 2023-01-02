@@ -24,4 +24,4 @@ const romanToInt = (s) => {
   return res;
 };
 
-romanToInt("MCMCIV");
+romanToInt("MCMCV");
